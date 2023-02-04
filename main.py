@@ -1,4 +1,5 @@
 list_of_names=[]
+#NOTE: the file path below will differ for everyone.
 with open("Input/Names/invited_names.txt") as name_file:
     data_file=name_file.readlines()
     for x in data_file:
