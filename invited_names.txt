@@ -1,0 +1,9 @@
+#You can customize this file and choose any other names you want
+Aang
+Zuko
+Appa
+Katara
+Sokka
+Momo
+Uncle Iroh
+Toph
